@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.d84457d3.chunk.js",
-    "main.js.map": "/static/js/main.d84457d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9b89de3f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9b89de3f.js.map",
-    "static/js/2.51b98e82.chunk.js": "/static/js/2.51b98e82.chunk.js",
-    "static/js/2.51b98e82.chunk.js.map": "/static/js/2.51b98e82.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.51b98e82.chunk.js.LICENSE.txt": "/static/js/2.51b98e82.chunk.js.LICENSE.txt",
-    "static/media/profile.15422c43.svg": "/static/media/profile.15422c43.svg"
+    "main.js": "/Formulario/static/js/main.d84457d3.chunk.js",
+    "main.js.map": "/Formulario/static/js/main.d84457d3.chunk.js.map",
+    "runtime-main.js": "/Formulario/static/js/runtime-main.f50b98c6.js",
+    "runtime-main.js.map": "/Formulario/static/js/runtime-main.f50b98c6.js.map",
+    "static/js/2.414d73d1.chunk.js": "/Formulario/static/js/2.414d73d1.chunk.js",
+    "static/js/2.414d73d1.chunk.js.map": "/Formulario/static/js/2.414d73d1.chunk.js.map",
+    "index.html": "/Formulario/index.html",
+    "static/js/2.414d73d1.chunk.js.LICENSE.txt": "/Formulario/static/js/2.414d73d1.chunk.js.LICENSE.txt",
+    "static/media/profile.15422c43.svg": "/Formulario/static/media/profile.15422c43.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b89de3f.js",
-    "static/js/2.51b98e82.chunk.js",
+    "static/js/runtime-main.f50b98c6.js",
+    "static/js/2.414d73d1.chunk.js",
     "static/js/main.d84457d3.chunk.js"
   ]
 }
