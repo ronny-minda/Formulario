@@ -1,3 +1,14 @@
+
+# Formulario
+
+Dispoible en: https://ronny-minda.github.io/Formulario/
+
+
+<h3>Desktop</h3>
+<p align="center">
+<code><img style="text-align: center;" height="400" src="./src/ico/scritorio.png"></code>
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
